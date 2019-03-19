@@ -5,6 +5,6 @@ categories = [ "Development" ]
 tags = ["html", "css", "javascript", "hugo", "contract", "developer", "web", "responsive", "netlify", "static site generator", "mobile"]
 +++
 
-Poff Development is a full-service web development company based in Tucson AZ.
+Poff Development is a full-service web development company based in Tucson AZ, and owned by Curt Poff. 
 
 
