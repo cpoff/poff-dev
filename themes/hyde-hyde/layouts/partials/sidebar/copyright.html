@@ -1,0 +1,12 @@
+{{ with .Site.Params.copyright }}
+<div class="copyright">
+  &copy;<script type="text/javascript">
+  document.write(new Date().getFullYear());
+</script>  Poff Development.<br><a href="https://creativecommons.org/licenses/by-sa/4.0">CC BY-SA 4.0</a>.
+</div>
+{{ end }}
+{{ with .Site.Params.showBuiltWith }}
+<div class="builtwith">
+Built with <a href="https://gohugo.io">Hugo</a> ❤️ <a href="https://github.com/htr3n/hyde-hyde">hyde-hyde</a>.
+</div>
+{{ end }}
