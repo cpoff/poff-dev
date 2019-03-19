@@ -1,4 +1,4 @@
-baseurl = "https://poff-dev.netlify.com"
+baseurl = "https://poffdev.netlify.com"
 title = "Poff Dev > Home"
 theme = "coder"
 languagecode = "en"
