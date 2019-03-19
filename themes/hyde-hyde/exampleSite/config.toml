@@ -2,7 +2,7 @@
 baseurl = "https://example.com/"
 languageCode = "en"
 
-title = "Title"
+title = "Poff Dev"
 theme = "hyde-hyde"
 
 ## Hugo Built-in Features
@@ -12,15 +12,17 @@ theme = "hyde-hyde"
 
 # summarylength = 30
 
-#paginate = 5
+paginate = 1
 
 ## Site Settings
 [params]
     author = "Author"
-    title = "Title"
+    title = "Poff Development"
     # description = "..."
     authorimage = "/img/hugo.png"
     dateformat = "Jan 2, 2006"
+    themeColor = "theme-base-0f"
+    layoutReverse = true
 
     # sidebar, copyright & license
     copyright = "htr3n"
@@ -31,7 +33,7 @@ theme = "hyde-hyde"
     # https://highlightjs.org
     highlightjs = true
     highlightjsstyle = "github"
-    
+
     # please choose either GraphComment or Disqus or Utterances
     #GraphCommentId = "..."
     #UtterancesRepo = "..." # https://utteranc.es/
@@ -54,19 +56,32 @@ theme = "hyde-hyde"
     email = "your-email@example.com"
     # gravatar = "your-email@example.com"
 
-## Main Menu
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+  ## Main Menu
+
 [[menu.main]]
-    name = "Posts"
-    weight = 100
-    identifier = "posts"
-    url = "/posts/"
+	identifier = "about"
+	name = "About me"
+	url = "/about/"
+	weight = 20
+
+#[[menu.main]]
+#	identifier = "posts"
+#	name = "Posts"
+#	url = "/posts/"
+#	weight = 10
+
+#[[menu.main]]
+#  identifier = "rss"
+#  name = "RSS"
+#  url = "/index.xml"
+#  weight = 50
+
 [[menu.main]]
-    name = "Portfolio"
-    identifier = "portfolio"
-    weight = 200
-    url = "/portfolio/"
-[[menu.main]]
-    name = "About"
-    identifier = "about"
-    weight = 300
-    url = "/about/"
+	identifier = "contact"
+	name = "Contact"
+	url = "/contact/"
+	weight = 30

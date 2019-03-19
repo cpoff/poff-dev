@@ -1,17 +1,11 @@
 +++
-title = "About Hugo"
-date = "2014-04-09"
+title = "About Poff Dev"
+date = "2019-03-19"
+categories: [ "Development" ]
+tags: ["html", "css", "javascript", "hugo", "contract", "developer", "web", "responsive", "netlify", "static site generator", "mobile"]
+weight: 10
 +++
 
-Hugo is a static site engine written in Go.
+Poff Development is a full-service web development company based in Tucson AZ.
 
-
-It makes use of a variety of open source projects including:
-
-* [Cobra](https://github.com/spf13/cobra)
-* [Viper](https://github.com/spf13/viper)
-* [J Walter Weatherman](https://github.com/spf13/jWalterWeatherman)
-* [Cast](https://github.com/spf13/cast)
-
-Learn more and contribute on [GitHub](https://github.com/gohugoio).
 
