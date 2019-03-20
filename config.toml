@@ -14,7 +14,7 @@ pygmentscodefencesguesssyntax = true
     author = "Curt Poff"
     description = "Poff Development is owned/operated by Curt Poff and based in Tucson AZ."
     keywords = "blog,developer,contract,javascript,drupal,wordpress,hugo,netlify,react,"
-    info = "Full service web development in southern Arizona"
+    info = "Full service web management in southern Arizona"
     avatarurl = "/images/dev_image.png"
     #footercontent = "Enter a text here."
 
@@ -43,11 +43,11 @@ pygmentscodefencesguesssyntax = true
 #    icon = "fab fa-gitlab"
 #    weight = 20
 #    url = "https://gitlab.com/johndoe/"
-[[params.social]]
-    name = "Twitter"
-    icon = "fab fa-twitter"
-    weight = 30
-    url = "https://twitter.com/cpoff"
+#[[params.social]]
+#    name = "Twitter"
+#    icon = "fab fa-twitter"
+#    weight = 30
+#    url = "https://twitter.com/cpoff"
 [[params.social]]
     name = "LinkedIn"
     icon = "fab fa-linkedin"
@@ -74,12 +74,12 @@ pygmentscodefencesguesssyntax = true
 #        weight = 2
 #        url = "/posts/"
 
-        [[languages.en.menu.main]]
-        name = "Projects"
-        weight = 3
-        url = "/projects/"
+#        [[languages.en.menu.main]]
+#        name = "Projects"
+#        weight = 3
+#        url = "/projects/"
 
         [[languages.en.menu.main]]
-        name = "Contact me"
+        name = "Contact Me"
         weight = 5
         url = "/contact/"
