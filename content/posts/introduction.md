@@ -8,4 +8,4 @@ tags: ["html", "css", "javascript", "hugo", "contract", "developer", "web", "res
 weight: 10
 ---
 
-Poff Development is a full-service web management company based in Tucson AZ, owned by Curt Poff. Clients include SaddleBrooke One HOA.
+Poff Development is a full-service web management company based in Tucson AZ, owned by Curt Poff..
