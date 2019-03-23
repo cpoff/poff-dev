@@ -1,5 +1,14 @@
 <nav class="navigation">
   <section class="container">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-315392-11"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-315392-11');
+</script>
     <a class="navigation-title" href="{{ .Site.BaseURL | absLangURL }}">
       {{ .Site.Title }}
     </a>
