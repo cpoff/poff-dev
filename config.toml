@@ -64,10 +64,10 @@ pygmentscodefencesguesssyntax = true
     [languages.en]
         languagename = "English"
 
-        [[languages.en.menu.main]]
-        name = "About"
-        weight = 1
-        url = "/about/"
+#        [[languages.en.menu.main]]
+#        name = "About"
+#        weight = 1
+#        url = "/about/"
 
 #        [[languages.en.menu.main]]
 #        name = "Blog"
@@ -80,6 +80,6 @@ pygmentscodefencesguesssyntax = true
 #        url = "/projects/"
 
         [[languages.en.menu.main]]
-        name = "Contact Me"
+        name = "Reach out. I'm for hire."
         weight = 5
         url = "/contact/"
