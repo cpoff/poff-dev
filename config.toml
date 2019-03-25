@@ -1,5 +1,5 @@
 baseurl = "https://poffdev.netlify.com"
-title = "Poff Dev > Home"
+title = "Poff Development"
 theme = "coder"
 languagecode = "en"
 defaultcontentlanguage = "en"
