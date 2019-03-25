@@ -2,138 +2,138 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Poff Development</title>
-    <link>https://example.com/tags/</link>
+    <link>https://poffdev.netlify.com/tags/</link>
     <description>Recent content in Tags on Poff Development</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Tue, 19 Mar 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://example.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://poffdev.netlify.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About</title>
-      <link>https://example.com/tags/about/</link>
+      <link>https://poffdev.netlify.com/tags/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/about/</guid>
+      <guid>https://poffdev.netlify.com/tags/about/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contract</title>
-      <link>https://example.com/tags/contract/</link>
+      <link>https://poffdev.netlify.com/tags/contract/</link>
       <pubDate>Tue, 19 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/contract/</guid>
+      <guid>https://poffdev.netlify.com/tags/contract/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Css</title>
-      <link>https://example.com/tags/css/</link>
+      <link>https://poffdev.netlify.com/tags/css/</link>
       <pubDate>Tue, 19 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/css/</guid>
+      <guid>https://poffdev.netlify.com/tags/css/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Curt Poff</title>
-      <link>https://example.com/tags/curt-poff/</link>
+      <link>https://poffdev.netlify.com/tags/curt-poff/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/curt-poff/</guid>
+      <guid>https://poffdev.netlify.com/tags/curt-poff/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Developer</title>
-      <link>https://example.com/tags/developer/</link>
+      <link>https://poffdev.netlify.com/tags/developer/</link>
       <pubDate>Tue, 19 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/developer/</guid>
+      <guid>https://poffdev.netlify.com/tags/developer/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Development</title>
-      <link>https://example.com/tags/development/</link>
+      <link>https://poffdev.netlify.com/tags/development/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/development/</guid>
+      <guid>https://poffdev.netlify.com/tags/development/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Html</title>
-      <link>https://example.com/tags/html/</link>
+      <link>https://poffdev.netlify.com/tags/html/</link>
       <pubDate>Tue, 19 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/html/</guid>
+      <guid>https://poffdev.netlify.com/tags/html/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Hugo</title>
-      <link>https://example.com/tags/hugo/</link>
+      <link>https://poffdev.netlify.com/tags/hugo/</link>
       <pubDate>Tue, 19 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/hugo/</guid>
+      <guid>https://poffdev.netlify.com/tags/hugo/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Javascript</title>
-      <link>https://example.com/tags/javascript/</link>
+      <link>https://poffdev.netlify.com/tags/javascript/</link>
       <pubDate>Tue, 19 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/javascript/</guid>
+      <guid>https://poffdev.netlify.com/tags/javascript/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Mobile</title>
-      <link>https://example.com/tags/mobile/</link>
+      <link>https://poffdev.netlify.com/tags/mobile/</link>
       <pubDate>Tue, 19 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/mobile/</guid>
+      <guid>https://poffdev.netlify.com/tags/mobile/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Netlify</title>
-      <link>https://example.com/tags/netlify/</link>
+      <link>https://poffdev.netlify.com/tags/netlify/</link>
       <pubDate>Tue, 19 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/netlify/</guid>
+      <guid>https://poffdev.netlify.com/tags/netlify/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Responsive</title>
-      <link>https://example.com/tags/responsive/</link>
+      <link>https://poffdev.netlify.com/tags/responsive/</link>
       <pubDate>Tue, 19 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/responsive/</guid>
+      <guid>https://poffdev.netlify.com/tags/responsive/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Static Site Generator</title>
-      <link>https://example.com/tags/static-site-generator/</link>
+      <link>https://poffdev.netlify.com/tags/static-site-generator/</link>
       <pubDate>Tue, 19 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/static-site-generator/</guid>
+      <guid>https://poffdev.netlify.com/tags/static-site-generator/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Web</title>
-      <link>https://example.com/tags/web/</link>
+      <link>https://poffdev.netlify.com/tags/web/</link>
       <pubDate>Tue, 19 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/tags/web/</guid>
+      <guid>https://poffdev.netlify.com/tags/web/</guid>
       <description></description>
     </item>
     

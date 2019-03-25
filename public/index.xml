@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Poff Development on Poff Development</title>
-    <link>https://example.com/</link>
+    <link>https://poffdev.netlify.com/</link>
     <description>Recent content in Poff Development on Poff Development</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
@@ -11,30 +11,30 @@
     
     <item>
       <title>Welcome to Poff Dev!</title>
-      <link>https://example.com/2019/introduction/</link>
+      <link>https://poffdev.netlify.com/2019/introduction/</link>
       <pubDate>Tue, 19 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/2019/introduction/</guid>
+      <guid>https://poffdev.netlify.com/2019/introduction/</guid>
       <description>&lt;p&gt;Poff Development is a full-service web management company based in Tucson AZ, owned by Curt Poff..&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>About Poff Dev</title>
-      <link>https://example.com/about/</link>
+      <link>https://poffdev.netlify.com/about/</link>
       <pubDate>Tue, 19 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/about/</guid>
+      <guid>https://poffdev.netlify.com/about/</guid>
       <description>&lt;p&gt;Poff Development is a full-service web management company based in Tucson AZ, owned by Curt Poff.&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Contact Me</title>
-      <link>https://example.com/contact/</link>
+      <link>https://poffdev.netlify.com/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/contact/</guid>
+      <guid>https://poffdev.netlify.com/contact/</guid>
       <description>&lt;form name=&#34;contact&#34; method=&#34;POST&#34; data-netlify-recaptcha=&#34;true&#34; data-netlify=&#34;true&#34;&gt;
 &lt;label&gt;Name: &lt;input type=&#34;text&#34; name=&#34;name&#34;&gt;&lt;/label&gt;&lt;br/&gt;
 &lt;label&gt;Email: &lt;input type=&#34;email&#34; name=&#34;email&#34;&gt;&lt;/label&gt;&lt;br/&gt;
@@ -46,10 +46,10 @@
     
     <item>
       <title>Projects</title>
-      <link>https://example.com/projects/</link>
+      <link>https://poffdev.netlify.com/projects/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://example.com/projects/</guid>
+      <guid>https://poffdev.netlify.com/projects/</guid>
       <description>&lt;p&gt;Nothing to see here&amp;hellip; Move along!&lt;/p&gt;
 </description>
     </item>
