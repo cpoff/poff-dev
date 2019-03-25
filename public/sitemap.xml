@@ -2,326 +2,137 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
-    <url>
-      <loc>https://poffdev.netlify.com/2019/introduction/</loc>
-      
-      <lastmod>2019-03-19T00:00:00+00:00</lastmod>
-      
-      
-      <changefreq>monthly</changefreq>
-      
-      
-      <priority>0.5</priority>
-      
-      
-    </url>
+  <url>
+    <loc>https://poffdev.netlify.com/posts/introduction/</loc>
+    <lastmod>2019-03-19T00:00:00+00:00</lastmod>
+  </url>
   
-    <url>
-      <loc>https://poffdev.netlify.com/about/</loc>
-      
-      <lastmod>2019-03-19T00:00:00+00:00</lastmod>
-      
-      
-      <changefreq>monthly</changefreq>
-      
-      
-      <priority>0.5</priority>
-      
-      
-    </url>
+  <url>
+    <loc>https://poffdev.netlify.com/about/</loc>
+    <lastmod>2019-03-19T00:00:00+00:00</lastmod>
+  </url>
   
-    <url>
-      <loc>https://poffdev.netlify.com/tags/about/</loc>
-      
-      
-      <changefreq>monthly</changefreq>
-      
-      
-      <priority>0</priority>
-      
-      
-    </url>
+  <url>
+    <loc>https://poffdev.netlify.com/tags/about/</loc>
+    <priority>0</priority>
+  </url>
   
-    <url>
-      <loc>https://poffdev.netlify.com/categories/</loc>
-      
-      
-      <changefreq>monthly</changefreq>
-      
-      
-      <priority>0</priority>
-      
-      
-    </url>
+  <url>
+    <loc>https://poffdev.netlify.com/categories/</loc>
+    <priority>0</priority>
+  </url>
   
-    <url>
-      <loc>https://poffdev.netlify.com/categories/contact/</loc>
-      
-      
-      <changefreq>monthly</changefreq>
-      
-      
-      <priority>0</priority>
-      
-      
-    </url>
+  <url>
+    <loc>https://poffdev.netlify.com/categories/contact/</loc>
+    <priority>0</priority>
+  </url>
   
-    <url>
-      <loc>https://poffdev.netlify.com/contact/</loc>
-      
-      
-      <changefreq>monthly</changefreq>
-      
-      
-      <priority>0.5</priority>
-      
-      
-    </url>
+  <url>
+    <loc>https://poffdev.netlify.com/contact/</loc>
+  </url>
   
-    <url>
-      <loc>https://poffdev.netlify.com/tags/contract/</loc>
-      
-      <lastmod>2019-03-19T00:00:00+00:00</lastmod>
-      
-      
-      <changefreq>monthly</changefreq>
-      
-      
-      <priority>0</priority>
-      
-      
-    </url>
+  <url>
+    <loc>https://poffdev.netlify.com/tags/contract/</loc>
+    <lastmod>2019-03-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    <url>
-      <loc>https://poffdev.netlify.com/tags/css/</loc>
-      
-      <lastmod>2019-03-19T00:00:00+00:00</lastmod>
-      
-      
-      <changefreq>monthly</changefreq>
-      
-      
-      <priority>0</priority>
-      
-      
-    </url>
+  <url>
+    <loc>https://poffdev.netlify.com/tags/css/</loc>
+    <lastmod>2019-03-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    <url>
-      <loc>https://poffdev.netlify.com/tags/curt-poff/</loc>
-      
-      
-      <changefreq>monthly</changefreq>
-      
-      
-      <priority>0</priority>
-      
-      
-    </url>
+  <url>
+    <loc>https://poffdev.netlify.com/tags/curt-poff/</loc>
+    <priority>0</priority>
+  </url>
   
-    <url>
-      <loc>https://poffdev.netlify.com/tags/developer/</loc>
-      
-      <lastmod>2019-03-19T00:00:00+00:00</lastmod>
-      
-      
-      <changefreq>monthly</changefreq>
-      
-      
-      <priority>0</priority>
-      
-      
-    </url>
+  <url>
+    <loc>https://poffdev.netlify.com/tags/developer/</loc>
+    <lastmod>2019-03-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    <url>
-      <loc>https://poffdev.netlify.com/categories/development/</loc>
-      
-      <lastmod>2019-03-19T00:00:00+00:00</lastmod>
-      
-      
-      <changefreq>monthly</changefreq>
-      
-      
-      <priority>0</priority>
-      
-      
-    </url>
+  <url>
+    <loc>https://poffdev.netlify.com/tags/development/</loc>
+    <priority>0</priority>
+  </url>
   
-    <url>
-      <loc>https://poffdev.netlify.com/tags/development/</loc>
-      
-      
-      <changefreq>monthly</changefreq>
-      
-      
-      <priority>0</priority>
-      
-      
-    </url>
+  <url>
+    <loc>https://poffdev.netlify.com/categories/development/</loc>
+    <lastmod>2019-03-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    <url>
-      <loc>https://poffdev.netlify.com/tags/html/</loc>
-      
-      <lastmod>2019-03-19T00:00:00+00:00</lastmod>
-      
-      
-      <changefreq>monthly</changefreq>
-      
-      
-      <priority>0</priority>
-      
-      
-    </url>
+  <url>
+    <loc>https://poffdev.netlify.com/tags/html/</loc>
+    <lastmod>2019-03-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    <url>
-      <loc>https://poffdev.netlify.com/tags/hugo/</loc>
-      
-      <lastmod>2019-03-19T00:00:00+00:00</lastmod>
-      
-      
-      <changefreq>monthly</changefreq>
-      
-      
-      <priority>0</priority>
-      
-      
-    </url>
+  <url>
+    <loc>https://poffdev.netlify.com/tags/hugo/</loc>
+    <lastmod>2019-03-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    <url>
-      <loc>https://poffdev.netlify.com/tags/javascript/</loc>
-      
-      <lastmod>2019-03-19T00:00:00+00:00</lastmod>
-      
-      
-      <changefreq>monthly</changefreq>
-      
-      
-      <priority>0</priority>
-      
-      
-    </url>
+  <url>
+    <loc>https://poffdev.netlify.com/tags/javascript/</loc>
+    <lastmod>2019-03-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    <url>
-      <loc>https://poffdev.netlify.com/tags/mobile/</loc>
-      
-      <lastmod>2019-03-19T00:00:00+00:00</lastmod>
-      
-      
-      <changefreq>monthly</changefreq>
-      
-      
-      <priority>0</priority>
-      
-      
-    </url>
+  <url>
+    <loc>https://poffdev.netlify.com/tags/mobile/</loc>
+    <lastmod>2019-03-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    <url>
-      <loc>https://poffdev.netlify.com/tags/netlify/</loc>
-      
-      <lastmod>2019-03-19T00:00:00+00:00</lastmod>
-      
-      
-      <changefreq>monthly</changefreq>
-      
-      
-      <priority>0</priority>
-      
-      
-    </url>
+  <url>
+    <loc>https://poffdev.netlify.com/tags/netlify/</loc>
+    <lastmod>2019-03-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    <url>
-      <loc>https://poffdev.netlify.com/</loc>
-      
-      <lastmod>2019-03-19T00:00:00+00:00</lastmod>
-      
-      
-      <changefreq>monthly</changefreq>
-      
-      
-      <priority>0</priority>
-      
-      
-    </url>
+  <url>
+    <loc>https://poffdev.netlify.com/</loc>
+    <lastmod>2019-03-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    <url>
-      <loc>https://poffdev.netlify.com/posts/</loc>
-      
-      <lastmod>2019-03-19T00:00:00+00:00</lastmod>
-      
-      
-      <changefreq>monthly</changefreq>
-      
-      
-      <priority>0</priority>
-      
-      
-    </url>
+  <url>
+    <loc>https://poffdev.netlify.com/posts/</loc>
+    <lastmod>2019-03-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    <url>
-      <loc>https://poffdev.netlify.com/projects/</loc>
-      
-      
-      <changefreq>monthly</changefreq>
-      
-      
-      <priority>0.5</priority>
-      
-      
-    </url>
+  <url>
+    <loc>https://poffdev.netlify.com/projects/</loc>
+  </url>
   
-    <url>
-      <loc>https://poffdev.netlify.com/tags/responsive/</loc>
-      
-      <lastmod>2019-03-19T00:00:00+00:00</lastmod>
-      
-      
-      <changefreq>monthly</changefreq>
-      
-      
-      <priority>0</priority>
-      
-      
-    </url>
+  <url>
+    <loc>https://poffdev.netlify.com/tags/responsive/</loc>
+    <lastmod>2019-03-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    <url>
-      <loc>https://poffdev.netlify.com/tags/static-site-generator/</loc>
-      
-      <lastmod>2019-03-19T00:00:00+00:00</lastmod>
-      
-      
-      <changefreq>monthly</changefreq>
-      
-      
-      <priority>0</priority>
-      
-      
-    </url>
+  <url>
+    <loc>https://poffdev.netlify.com/tags/static-site-generator/</loc>
+    <lastmod>2019-03-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    <url>
-      <loc>https://poffdev.netlify.com/tags/</loc>
-      
-      <lastmod>2019-03-19T00:00:00+00:00</lastmod>
-      
-      
-      <changefreq>monthly</changefreq>
-      
-      
-      <priority>0</priority>
-      
-      
-    </url>
+  <url>
+    <loc>https://poffdev.netlify.com/tags/</loc>
+    <lastmod>2019-03-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
-    <url>
-      <loc>https://poffdev.netlify.com/tags/web/</loc>
-      
-      <lastmod>2019-03-19T00:00:00+00:00</lastmod>
-      
-      
-      <changefreq>monthly</changefreq>
-      
-      
-      <priority>0</priority>
-      
-      
-    </url>
+  <url>
+    <loc>https://poffdev.netlify.com/tags/web/</loc>
+    <lastmod>2019-03-19T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
   
 </urlset>

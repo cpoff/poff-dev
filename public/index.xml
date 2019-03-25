@@ -1,22 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Poff Development on Poff Development</title>
+    <title>Poff Development</title>
     <link>https://poffdev.netlify.com/</link>
-    <description>Recent content in Poff Development on Poff Development</description>
+    <description>Recent content on Poff Development</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Tue, 19 Mar 2019 00:00:00 +0000</lastBuildDate>
-    <atom:link href="/" rel="self" type="application/rss+xml" />
+    
+	<atom:link href="https://poffdev.netlify.com/index.xml" rel="self" type="application/rss+xml" />
+    
     
     <item>
       <title>Welcome to Poff Dev!</title>
-      <link>https://poffdev.netlify.com/2019/introduction/</link>
+      <link>https://poffdev.netlify.com/posts/introduction/</link>
       <pubDate>Tue, 19 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://poffdev.netlify.com/2019/introduction/</guid>
-      <description>&lt;p&gt;Poff Development is a full-service web management company based in Tucson AZ, owned by Curt Poff..&lt;/p&gt;
-</description>
+      <guid>https://poffdev.netlify.com/posts/introduction/</guid>
+      <description>Poff Development is a full-service web management company based in Tucson AZ, owned by Curt Poff..</description>
     </item>
     
     <item>
@@ -25,8 +26,7 @@
       <pubDate>Tue, 19 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>https://poffdev.netlify.com/about/</guid>
-      <description>&lt;p&gt;Poff Development is a full-service web management company based in Tucson AZ, owned by Curt Poff.&lt;/p&gt;
-</description>
+      <description>Poff Development is a full-service web management company based in Tucson AZ, owned by Curt Poff.</description>
     </item>
     
     <item>
@@ -35,13 +35,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://poffdev.netlify.com/contact/</guid>
-      <description>&lt;form name=&#34;contact&#34; method=&#34;POST&#34; data-netlify-recaptcha=&#34;true&#34; data-netlify=&#34;true&#34;&gt;
-&lt;label&gt;Name: &lt;input type=&#34;text&#34; name=&#34;name&#34;&gt;&lt;/label&gt;&lt;br/&gt;
-&lt;label&gt;Email: &lt;input type=&#34;email&#34; name=&#34;email&#34;&gt;&lt;/label&gt;&lt;br/&gt;
-&lt;label&gt;BOT TRAP!! Leave this field blank: &lt;input name=&#34;bot-field&#34;&gt;&lt;/label&gt;&lt;br/&gt;
-&lt;label&gt;Message:&lt;br/&gt;&lt;textarea name=&#34;message&#34; rows=&#34;10&#34; cols=&#34;75&#34;&gt;&lt;/textarea&gt;&lt;/label&gt;&lt;br/&gt;
-&lt;button type=&#34;submit&#34;&gt;Send&lt;/button&lt;/form&gt;
-</description>
+      <description>Name:  Email:  BOT TRAP!! Leave this field blank:  Message: Send </description>
     </item>
     
     <item>
@@ -50,8 +44,7 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://poffdev.netlify.com/projects/</guid>
-      <description>&lt;p&gt;Nothing to see here&amp;hellip; Move along!&lt;/p&gt;
-</description>
+      <description>Nothing to see here&amp;hellip; Move along!</description>
     </item>
     
   </channel>

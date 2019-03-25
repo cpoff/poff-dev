@@ -4,7 +4,7 @@ https://keybase.io/cpoff
 
 I hereby claim:
 
-  * I am an admin of https://poffdev.com
+  * I am an admin of https://poffdev.netlify.com
   * I am cpoff (https://keybase.io/cpoff) on keybase.
   * I have a public key with fingerprint 7D23 4D8A 284A 3C10 EB24  911E FBBE CD64 EE0C F37A
 
@@ -21,17 +21,27 @@ To do so, I am signing this object:
       "uid": "a2344637b4ee7f3228cee0dd6f596719",
       "username": "cpoff"
     },
+    "merkle_root": {
+      "ctime": 1553492790,
+      "hash_meta": "68e685074dfacfc436d297b4c89e3ba5584dcc85a0c515712eaa2465a05c282c",
+      "seqno": 5015194
+    },
+    "revoke": {
+      "sig_ids": [
+        "783c2ab08abb67e9eea1a373b73a153f39bf3a6cd2878f29a02038872e4bfab50f"
+      ]
+    },
     "service": {
-      "hostname": "poffdev.com",
+      "hostname": "poffdev.netlify.com",
       "protocol": "https:"
     },
     "type": "web_service_binding",
     "version": 1
   },
-  "ctime": 1553491895,
+  "ctime": 1553492797,
   "expire_in": 157680000,
-  "prev": "422929cd2a7f531f3d35d68d2cb68814543bc95e10fc2ac38ae7fca300e08d95",
-  "seqno": 56,
+  "prev": "87146ee4638abb6da7d16ecfd38c493455a6dfb86f7c0d8575f4270f86d3f617",
+  "seqno": 58,
   "tag": "signature"
 }
 
@@ -41,29 +51,32 @@ which yields the signature:
 Version: Keybase OpenPGP v2.1.0
 Comment: https://keybase.io/crypto
 
-yMM+AnicrVJrTBRXFF60gBIaaIQgpdh2IgYI4rwfS9GWKpBWfCSY2ADdzsy9sztx
-2Vl3F9YVaawQrRLlISxgirpdBWtocKkttEUbKG20PCpCkG4IaaCgpQQaibV1KXaG
-2H/92Zub3Nxzvu873zk5vc+v1oUFBW4OgPnwxcNBfd21Rbr8BmNHCSIowIXoS5AD
-cOWBZgDtDsMBGSB6BMVQTMRplqNQwNGAJVmMpRgS5aAkEiRKkzjJShTFaleCEPAM
-gQMC4yia4FkSBQzN0CiPpCCSbDFCm9UmWxyqLANwggQsj7MkT4gYCgWc5DAMSoIA
-RUCTEKKiRDAa0aTYNYZqTuDtMFVW1Jj6MazY+w/8/+y7aEWOV+2SNMEIaiVGInCc
-FdWSANASxdEMxmlAO7RZ+EKookWrIklIaQqihoplEWpT1dp4ltayABanikqhyrPa
-FIciKmY1YXI4rHa9RnS4rBrSCQXDMw2DIFuAOkOVUQxtdlmxIHpMRYoOWRPFKIpQ
-J6j2m4LAQ1bZBg2yhqAYmkXVo9WBxaokieMczokA5xmJIjCJAAQFaBbgokCzLEZS
-JCGIHAUxVBJxXiRYXm1Y5AkUhSgLOArRujpoURA9Ras+eaOqaZeNFt5RZINIaU93
-/nO6oDBdSPAqbbl0YWsj/105Z12krm680pV7p/W91VeS8/uq22JOfbJXv/926AfN
-18K5Rldn6Rrux0V30qz+5AbzZynpg5sfHnftHorqr/W+sXgiPifUAO/NCIe8ySMP
-dwZezF0fqJ2KYyMKC9pnHS3D1vKOJlfb1Jfvhi/Ety3wNyVnz/LTy96KfaeNmfr2
-Jfxn4aWdOQ+Gonf5Szo7b+yJomvKKoYTYuOVx2kRAx7v6Iz3BawBHJ+S3E3GJEvO
-9RPnJ+IKtvjLN/U4H9AjY/ut2b6fMvxLv7QV1uTc+7C1d6TGFBKcljjsqx/vejPi
-2BffZ9yNanF/5GW9JQPnggxVTWs2V89GZelvD4pJ3U/J7HWT7r/mJ1j2jM80aT6b
-nDhtbemwTw2vH33/u+A+RvwmNbnAuq99y43pYPYrT8KODYdP91+wRY1EuqMDVQlH
-LO7pY11itKmSuHj5a84z5MvCzsGX0aq/V5n7bXkb3ylPTPfLM4+uvu5pKOuuT3MN
-+D62xP66PXT8z4WjTcUH4y6OZWTWv3JyV0T2Ns9EfXrfyCbl0uiZI3fSQvqhc275
-ccjursrqis9dDdV9r43lJnhirvxwf+uE1P22cfrsXGAuc0/HqTw+xt54/RY+WDn9
-e923j3aIy9e2Nt+HzVcDl84fjfZXbn8rdtK/8ZbT9+neu9v+mI9orFu2PymKz2vt
-/a33ydquV7O8ZUv/ANFazOg=
-=2hKZ
+yMPbAnicrVN7UBVVHAZLHTGSGM1HabbKmHa97vOcs5dsSooYzREnn0Dezu45y125
+3L3dXS4qklpoPoLCMFAhNTIlrUbErBAtR2wGJKIUH9XQS6VSZgzTNLTOMjbTNP3Z
+zs7snLPf7/u+3/c750j8bTFxsX8cbCFdd3QviW0+vCQvJqsiZ3IBp1lkMecr4HJo
+74cGCbUdf45JOB/HC7ygiwCpCk9UQJCMBKRAmVepoUsyD2RRRoaiIPc1KCUYSiKR
+BFUBEkYyTyCAgMechzPMUDaNhCNmyGG0kIiSTBAWkYwlXeCpJsqqIFBD06hOgEwp
+rxsSdAsDlu1WMHMatqnXtNgeW/h77f0H/n/2nddLh5ldGUhQY0rQkEQR6UySEGAo
+KoCC6gJtGgnhXMrQetgyDK7Qw+XSSE6Q+iOW5bjJ6o7p/hcURZJVEao86w7bAX8u
+dTArA4gCpPBQJgbWDV2WABFVJqkjlUoaZlZloutIwbyuCAoURIqxKAO2VnQRiToz
+YdNnQxbnU3hBEVSZOYjQqJVDXXHbzGaZ2Zwvk4NI0kWs8QhrGoBUpRQLWIKSBiUs
+KJIhqZohYaATEUFkiCrmRV5CCIpU1gysKbzBPV3oikWipt5L7g7pVvNu74RGvSHq
+BE1jsVe3cpmxcMRyLN0KMkDAccK2z43HWRx2K/Kp5r/F5dfMEGEnhVVEacQ2rRCL
+iyH/nRz0cHRR2IxQv+kiFAgQzx5Xh0YZJYKCDChlI+vtkY2XCIDqBpGQLquSrCgY
+EENDwIA6T9jJUAxZhLyBAJEMIMB/RImYT5zNOFmAIezkRShXePiTrNtjYuNi+vXt
+416hmLgBCX9frM3fDbo5sc+JQV/5Ph6Xu/l4R8ubzsij67KMj7pS5wdLPUdPb32w
+rXF4Rd2ZuJVzk3bP2ZB27UJJflLtky82gOc/X7GxvSslfsXS2HPevclHAqeL9qQt
+66zqfmXC99+sTY7urYX52xJXeydPeiqw/M+mnTWHHt6WPmDoc6mr6m78Xt+/6OqJ
+n/JP3bVAqDxvHxtySp8SfumJ5YMSsxq5gwUZqGH4tS1Cxca0y2d7mkvfrmmd41nm
+ZESHvDpl7eycC29dP1cePTtjV9O7Cb9d3HizJW7FQnq8fWw2VxjcVXVwZeWmktKZ
+axYeD43M3F8hfLo088f6ZpWXx7aWdV9K93XAK7X7vcPOj7++yVfSM796d1vGt6lr
+tmub9y0oHFZlzW6ZNnGrtaEn9syBLi2z/5JVl67UX5w1ibu7L1/W2gnGPB5/taDm
+lwObQuYPq0d3VN+8MnrZPckp5TMDBb8eqPo67eT7RdNvBGeSop3FqScXpid90Rwa
+nNwvtnjM1ob29SOeSbxo39temb5r/5cDX2uIG/xy6ejPRrxes5JLCDcldZUHyqcL
+93lGeekxH3jn/msdwonT1ds+rF7dmXbq56vb2/KS4Kx9a9WHRu7oenTDjqadPS/s
+eW9uw9D19eFpKfb8sqlbQm+0evrXDlyU3t0pzEtILD4/4xFhQWP9sboBo8ADeePj
+20fUXx7nmVjyQeM8+1Bb/ITH1rXeWWlO/Qu4Tgmp
+=1O/L
 -----END PGP MESSAGE-----
 
 And finally, I am proving ownership of this host by posting or
