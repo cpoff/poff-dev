@@ -13,7 +13,7 @@ pygmentscodefencesguesssyntax = true
 [params]
     author = "Curt Poff"
     title = "Poff Development"
-    description = "Poff Development is owned/operated by Curt Poff and based in Tucson AZ. Websites big or small, we build them all."
+    description = "Poff Development is owned/operated by Curt Poff and based in Tucson AZ. We build websites big or small."
     keywords = "developer,contract,javascript,drupal,wordpress,hugo,netlify,react,"
     info = "Full service web management in southern Arizona"
     avatarurl = "/images/dev_image.png"
