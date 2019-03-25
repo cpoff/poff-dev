@@ -21,6 +21,16 @@ To do so, I am signing this object:
       "uid": "a2344637b4ee7f3228cee0dd6f596719",
       "username": "cpoff"
     },
+    "merkle_root": {
+      "ctime": 1553492790,
+      "hash_meta": "68e685074dfacfc436d297b4c89e3ba5584dcc85a0c515712eaa2465a05c282c",
+      "seqno": 5015194
+    },
+    "revoke": {
+      "sig_ids": [
+        "783c2ab08abb67e9eea1a373b73a153f39bf3a6cd2878f29a02038872e4bfab50f"
+      ]
+    },
     "service": {
       "hostname": "poffdev.netlify.com",
       "protocol": "https:"
@@ -28,10 +38,10 @@ To do so, I am signing this object:
     "type": "web_service_binding",
     "version": 1
   },
-  "ctime": 1553492682,
+  "ctime": 1553492797,
   "expire_in": 157680000,
-  "prev": "89da3ba4d45211d25492a4cab15e505b4b958a7040dea23f3419983b0eba9963",
-  "seqno": 57,
+  "prev": "87146ee4638abb6da7d16ecfd38c493455a6dfb86f7c0d8575f4270f86d3f617",
+  "seqno": 58,
   "tag": "signature"
 }
 
@@ -41,29 +51,32 @@ which yields the signature:
 Version: Keybase OpenPGP v2.1.0
 Comment: https://keybase.io/crypto
 
-yMNBAnicrVJ9TFVlGL/gBxMMCEPWSKMzA5twOd8fwBiojMumMBq4tUA857zvgcPl
-3nO993D5uNGHxKyFVLiIr2LA1PkRZFCzzBKGdDM0RhjmIIfo1BEwQ5F1A3oPs//6
-s3fv9u59nt/v9/ye530HnlpjCvTzfXcFzG6cr/T7qa+11JTXWHzZg0kaqMASPJgV
-rh6wBECXXmBVAZaA4QROyCTLCwwOBBbwNE/wDEfjAlRkisZZmqR5hWF4YysQApGj
-SEARAsNSIk/jgGM5FhexWExR7YXQ6XCqdh3JcoCkaMCLJE+LlEzgUCJpgSCgIklQ
-BiwNIS4rFGcQizSXwUDmJNEFzaqGYuhSsGrvP/D/s+/SVTkR2aVZipNQJU6hSJKX
-UUkAWIURWI4QDKALOu2iDSK07NAUBauKxVDIrcrQmKrRxpO0kQXQbbZDvURVKsyy
-ZkN8h1PTNVkrQYAiXXe4EgwBvcJhMMqgVPBEq0BS7QDNEjHc0OlSNTuWQCCkrKuG
-OMEwFC2gxslYDJY7VCcsUA0Ew7E8jpZRB7qRJC8AkZJEGtAMSRCAZBBLpGVRIhjI
-4IxESwLDixyOZgFR9wpFE4LAUxJ6KlEQWAozujto17AEhkM+xUKk6VIL7aJe6oRY
-VX9f3lqTX6Bp/Tp/45OZAjeE/vv11uGhptot3vzmOmtUz+zyEb0s5Pr0nvVb9NSY
-uG1Tj1+8Xx+5PB8+fuudpN7Fnv7ulueeuZzTfTfbv6a9obdzv/PCo7GDb4/fPC/O
-HOo64J0M6Jn4+m62fKD8IjszIgrcjYCnT/wq5C5JNx5VfGQp2q7kJiUL3ZG3QxrP
-TYOO6mttzQ13drzfNPaS7dJg9aXhKVq3pZfdzFrzVscH2q2gMfP4fFPapO/buZSX
-B1N64pn3QsOwV0vevDIW0hpRzrP+7I8di2PTK/U5m6p30VHRJclEc2x15EBl0A9f
-+uLI17qWo0fN5k7fh+e6PPV5RzIbT+ntQ0NRvZ2d2v4Nx8J/25nvrd0dVJw0mbVx
-ITmxbVT1kk4zce359syTTRmenRlT+sjxsMPBpl/+qD3aMFrc+kb3z/evP9viqIwK
-dsuLVkuksNRvPRy/F2PJJf00uG1vybd8XxWTEpGYm7kycPbTtLTdOba/V/Dhvcv7
-gh9uvZoGPVsXPv5reqHc5ept4XftK5Wz41Its67B+PDXK+t6Bj2nIwK+6tBCHpx5
-5d43Z7yfnMh6XPP5C7XHL/ATdUdjOkrfvbgtw71Wuzpbc2jgZF8YFb95EJs6tqPQ
-e/b8A0wP6rd1RQwFehP9UpMahzcV/j5cvP2LKP896XMjsZ4J3x2bODuweVI0W6uX
-/2z7zHIqeibdt5j/8N7cPz1syWs=
-=Ab7I
+yMPbAnicrVN7UBVVHAZLHTGSGM1HabbKmHa97vOcs5dsSooYzREnn0Dezu45y125
+3L3dXS4qklpoPoLCMFAhNTIlrUbErBAtR2wGJKIUH9XQS6VSZgzTNLTOMjbTNP3Z
+zs7snLPf7/u+3/c750j8bTFxsX8cbCFdd3QviW0+vCQvJqsiZ3IBp1lkMecr4HJo
+74cGCbUdf45JOB/HC7ygiwCpCk9UQJCMBKRAmVepoUsyD2RRRoaiIPc1KCUYSiKR
+BFUBEkYyTyCAgMechzPMUDaNhCNmyGG0kIiSTBAWkYwlXeCpJsqqIFBD06hOgEwp
+rxsSdAsDlu1WMHMatqnXtNgeW/h77f0H/n/2nddLh5ldGUhQY0rQkEQR6UySEGAo
+KoCC6gJtGgnhXMrQetgyDK7Qw+XSSE6Q+iOW5bjJ6o7p/hcURZJVEao86w7bAX8u
+dTArA4gCpPBQJgbWDV2WABFVJqkjlUoaZlZloutIwbyuCAoURIqxKAO2VnQRiToz
+YdNnQxbnU3hBEVSZOYjQqJVDXXHbzGaZ2Zwvk4NI0kWs8QhrGoBUpRQLWIKSBiUs
+KJIhqZohYaATEUFkiCrmRV5CCIpU1gysKbzBPV3oikWipt5L7g7pVvNu74RGvSHq
+BE1jsVe3cpmxcMRyLN0KMkDAccK2z43HWRx2K/Kp5r/F5dfMEGEnhVVEacQ2rRCL
+iyH/nRz0cHRR2IxQv+kiFAgQzx5Xh0YZJYKCDChlI+vtkY2XCIDqBpGQLquSrCgY
+EENDwIA6T9jJUAxZhLyBAJEMIMB/RImYT5zNOFmAIezkRShXePiTrNtjYuNi+vXt
+416hmLgBCX9frM3fDbo5sc+JQV/5Ph6Xu/l4R8ubzsij67KMj7pS5wdLPUdPb32w
+rXF4Rd2ZuJVzk3bP2ZB27UJJflLtky82gOc/X7GxvSslfsXS2HPevclHAqeL9qQt
+66zqfmXC99+sTY7urYX52xJXeydPeiqw/M+mnTWHHt6WPmDoc6mr6m78Xt+/6OqJ
+n/JP3bVAqDxvHxtySp8SfumJ5YMSsxq5gwUZqGH4tS1Cxca0y2d7mkvfrmmd41nm
+ZESHvDpl7eycC29dP1cePTtjV9O7Cb9d3HizJW7FQnq8fWw2VxjcVXVwZeWmktKZ
+axYeD43M3F8hfLo088f6ZpWXx7aWdV9K93XAK7X7vcPOj7++yVfSM796d1vGt6lr
+tmub9y0oHFZlzW6ZNnGrtaEn9syBLi2z/5JVl67UX5w1ibu7L1/W2gnGPB5/taDm
+lwObQuYPq0d3VN+8MnrZPckp5TMDBb8eqPo67eT7RdNvBGeSop3FqScXpid90Rwa
+nNwvtnjM1ob29SOeSbxo39temb5r/5cDX2uIG/xy6ejPRrxes5JLCDcldZUHyqcL
+93lGeekxH3jn/msdwonT1ds+rF7dmXbq56vb2/KS4Kx9a9WHRu7oenTDjqadPS/s
+eW9uw9D19eFpKfb8sqlbQm+0evrXDlyU3t0pzEtILD4/4xFhQWP9sboBo8ADeePj
+20fUXx7nmVjyQeM8+1Bb/ITH1rXeWWlO/Qu4Tgmp
+=1O/L
 -----END PGP MESSAGE-----
 
 And finally, I am proving ownership of this host by posting or
