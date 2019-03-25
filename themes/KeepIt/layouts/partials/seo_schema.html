@@ -1,0 +1,23 @@
+<script type="application/ld+json">
+{
+    "@context" : "http://schema.org",
+    "@type" : "BlogPosting",
+    "mainEntityOfPage": {
+         "@type": "WebPage",
+         "@id": "{{ .Site.BaseURL }}"
+    },
+    "articleSection" : "{{ .Section }}",
+    "name" : "Poff Development",
+    "headline" : "Poff Development",
+    "description" : "Full service web management in southern Arizona.",
+    "inLanguage" : "en-US",
+    "author" : "Curt Poff",
+    "copyrightHolder" : "Poff Development",
+    "copyrightYear" : "{{ .Date.Format "2006" }}",
+    "datePublished": "{{ .Date }}",
+    "dateModified" : "{{ .Date }}",
+    "url" : "{{ .Permalink }}",
+    "wordCount" : "{{ .WordCount }}",
+    "keywords" : [ {{ if isset .Params "tags" }}{{ range .Params.tags }}"{{ . }}",{{ end }}{{ end }}"contract,developer,web,html,css,javascript,hugo,responsive,netlify,static site generator,mobile" ]
+}
+</script>
