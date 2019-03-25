@@ -12,8 +12,9 @@ pygmentscodefencesguesssyntax = true
 
 [params]
     author = "Curt Poff"
+    title = "Poff Development"
     description = "Poff Development is owned/operated by Curt Poff and based in Tucson AZ."
-    keywords = "blog,developer,contract,javascript,drupal,wordpress,hugo,netlify,react,"
+    keywords = "developer,contract,javascript,drupal,wordpress,hugo,netlify,react,"
     info = "Full service web management in southern Arizona"
     avatarurl = "/images/dev_image.png"
     #footercontent = "Enter a text here."
@@ -80,6 +81,6 @@ pygmentscodefencesguesssyntax = true
 #        url = "/projects/"
 
         [[languages.en.menu.main]]
-        name = "Reach out. I'm for hire."
+        name = "I'm for hire."
         weight = 5
         url = "/contact/"
