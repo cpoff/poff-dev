@@ -1,14 +1,14 @@
-baseURL = "https://poffdev.netlify.com"
+baseURL = "https://example.com"
 languageCode = "en"
 defaultContentLanguage = "en"
-title = "Poff Development"
+title = "KeepIt"
 theme = "KeepIt"
 
-paginate = 3
+paginate = 12
 enableEmoji = true
 enableRobotsTXT = true
 googleAnalytics = ""
-#disqusShortname = "yourdiscussshortname"
+disqusShortname = "yourdiscussshortname"
 
 [sitemap]
   changefreq = "monthly"
@@ -24,25 +24,25 @@ googleAnalytics = ""
  posts = "/:year/:filename/"
 
 [menu]
-#  [[menu.main]]
-#    name = "Blog"
-#    url = "/posts/"
-#    weight = 1
-
-#  [[menu.main]]
-#    name = "Categories"
-#    url = "/categories/"
-#    weight = 3
+  [[menu.main]]
+    name = "Blog"
+    url = "/posts/"
+    weight = 1
 
   [[menu.main]]
-    name = "Reach out and hire me!"
-    url = "/contact"
+    name = "Categories"
+    url = "/categories/"
+    weight = 3
+
+  [[menu.main]]
+    name = "About"
+    url = "/about"
     weight = 4
 
 [params]
-    #since = 2012
-    author = "Poff Development"               # Author's name
-    subtitle = "Full service web management in southern Arizona"       # Subtitle
+    since = 2012
+    author = "Fastbyte01"               # Author's name
+    subtitle = "A Hugo theme"       # Subtitle
     cdn_url = ""           # Base CDN URL
     home_mode = "" # post or other
 
@@ -53,24 +53,23 @@ googleAnalytics = ""
     baidu_verification = ""
 
     socialShare = true
-
-    description = "Full service web management in southern Arizona" # site description
-    keywords = "contract,developer,web,html,css,javascript,hugo,responsive,netlify,static site generator,mobile" # site keywords
+    
+    description = "" # site description
+    keywords = "" # site keywords
 
     license= 'Released under <a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank">CC BY-NC 4.0</a>'
 
 [params.gravatar]
-    email = "curt@poffdev.com"
+    email = ""
 
 [params.social]
-    GitHub = "cpoff"
-    Keybase = "cpoff"
-    Linkedin = "cpoff"
-    Telegram = "cpoff"
-    Email   = "curt.poff@gmail.com"
-    #Twitter = "cpoff"
+    GitHub = "xxxx"
+    Linkedin = "xxxx"
+    Twitter = "xxxx"
     #Instagram = "xxxx"
-    #Facebook = "xxxx"
+    #Email   = "xxxx"
+    Facebook = "xxxx"
+    #Telegram = "xxxx"
     #Medium = "xxxx"
     #Gitlab = "xxxx"
     #Youtubelegacy = "xxxx"
@@ -78,6 +77,7 @@ googleAnalytics = ""
     #Youtubechannel = "xxxx"
     #Tumblr ="xxxx"
     #Quora = "xxxx"
+    #Keybase = "xxxx"
     #Pinterest = "xxxx"
     #Reddit = "xxxx"
     #Codepen = "xxxx"
@@ -134,14 +134,14 @@ Linkedin = true
 #Douban = true
 #Weibo = true
 
-# Used only for Seo schema
+# Used only for Seo schema 
 copyright = "This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License."
 
 [author]
-  name = "Poff Development"
+  name = "Fastbyte01"
 
   [params.publisher]
-    name = "Poff Development"
+    name = "Fastbyte01"
 
     [params.publisher.logo]
       url = "logo.png"
@@ -158,8 +158,8 @@ copyright = "This work is licensed under a Creative Commons Attribution-NonComme
     width = 800
     height = 600
 
-#[params.gitalk]
-#owner = ""
-#repo = ""
-#clientId = ""
-#clientSecret = ""
+[params.gitalk]           
+owner = ""              
+repo = ""               
+clientId = ""           
+clientSecret = ""   
