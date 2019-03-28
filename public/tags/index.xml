@@ -6,7 +6,7 @@
     <description>Recent content in Tags on Poff Development</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 19 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 25 Mar 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://poffdev.netlify.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -17,6 +17,15 @@
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://poffdev.netlify.com/tags/about/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Arizona</title>
+      <link>https://poffdev.netlify.com/tags/arizona/</link>
+      <pubDate>Mon, 25 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://poffdev.netlify.com/tags/arizona/</guid>
       <description></description>
     </item>
     
@@ -120,11 +129,29 @@
     </item>
     
     <item>
+      <title>Southern Arizona</title>
+      <link>https://poffdev.netlify.com/tags/southern-arizona/</link>
+      <pubDate>Mon, 25 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://poffdev.netlify.com/tags/southern-arizona/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Static Site Generator</title>
       <link>https://poffdev.netlify.com/tags/static-site-generator/</link>
       <pubDate>Tue, 19 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>https://poffdev.netlify.com/tags/static-site-generator/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tucson</title>
+      <link>https://poffdev.netlify.com/tags/tucson/</link>
+      <pubDate>Mon, 25 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://poffdev.netlify.com/tags/tucson/</guid>
       <description></description>
     </item>
     

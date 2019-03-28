@@ -18,6 +18,12 @@
   </url>
   
   <url>
+    <loc>https://poffdev.netlify.com/tags/arizona/</loc>
+    <lastmod>2019-03-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://poffdev.netlify.com/categories/</loc>
     <priority>0</priority>
   </url>
@@ -118,6 +124,12 @@
   </url>
   
   <url>
+    <loc>https://poffdev.netlify.com/tags/southern-arizona/</loc>
+    <lastmod>2019-03-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://poffdev.netlify.com/tags/static-site-generator/</loc>
     <lastmod>2019-03-19T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -125,7 +137,13 @@
   
   <url>
     <loc>https://poffdev.netlify.com/tags/</loc>
-    <lastmod>2019-03-19T00:00:00+00:00</lastmod>
+    <lastmod>2019-03-25T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://poffdev.netlify.com/tags/tucson/</loc>
+    <lastmod>2019-03-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
