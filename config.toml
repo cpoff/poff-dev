@@ -89,4 +89,4 @@ pygmentscodefencesguesssyntax = true
         [[languages.en.menu.main]]
         name = "I'm for hire!"
         weight = 5
-        url = "/contact/"
+        url = "mailto:curt@poffdev.com"
