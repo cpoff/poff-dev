@@ -67,9 +67,9 @@ pygmentscodefencesguesssyntax = true
 
 
 
-[languages]
-    [languages.en]
-        languagename = "English"
+#[languages]
+#    [languages.en]
+#        languagename = "English"
 
        [[languages.en.menu.main]]
         name = "About"
