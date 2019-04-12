@@ -16,36 +16,37 @@ pygmentscodefencesguesssyntax = true
 #disqusShortname = ""
 
 [params]
-    author = "Poff Development"
-    description = "Full service web management in southern Arizona"
-    keywords = "blog,developer,personal"
-    info = "Full service web management in southern Arizona"
-    avatarurl = "images/dev_image.png"
-    footercontent = ""
+  title = "Poff Development"
+  author = "Curt Poff"
+  description = "Poff Development is owned/operated by Curt Poff and based in Tucson AZ. We build websites big and small."
+  keywords = "web, developer, contract, javascript, drupal, wordpress, hugo, netlify, react, Tucson, Arizona, southern Arizona"
+  info = "Full service web management in southern Arizona"
+  avatarurl = "/images/dev_image.png"
+  #footercontent = "Enter a text here."
 
     dateformat = "January 2, 2006"
 
-    hideCredits = false
-    hideCopyright = false
+#    hideCredits = false
+#    hideCopyright = false
 
     # Git Commit in Footer, uncomment the line below to enable it.
-    commit = "https://github.com/luizdepra/hugo-coder/tree/"
+#    commit = "https://github.com/luizdepra/hugo-coder/tree/"
 
-    rtl = false
+#    rtl = false
 
     # Use inverted colors
-    inverted = false
+#    inverted = false
 
     # Series see also post count
-    maxSeeAlsoItems = 5
+#    maxSeeAlsoItems = 5
 
     # Custom CSS
-    custom_css = []
+#    custom_css = []
 
 #[taxonomies]
 #  series = "series"
 
-[[params.social]]
+#[[params.social]]
 #    name = "Github"
 #    icon = "fab fa-github"
 #    weight = 1
