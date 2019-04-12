@@ -65,28 +65,3 @@ pygmentscodefencesguesssyntax = true
     weight = 80
     url = "mailto:curt@poffdev.com"
 
-
-
-[languages]
-    [languages.en]
-        languagename = "English"
-
-#       [[languages.en.menu.main]]
-#        name = "About"
-#        weight = 1
-#        url = "/about/"
-
-#        [[languages.en.menu.main]]
-#        name = "Blog"
-#        weight = 2
-#        url = "/posts/"
-
-#        [[languages.en.menu.main]]
-#        name = "Projects"
-#        weight = 3
-#        url = "/projects/"
-
-#         [[languages.en.menu.main]]
-#         name = "I'm for hire!"
-#         weight = 5
-#         url = "/contact/"
