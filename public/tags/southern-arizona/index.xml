@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Southern Arizona on Poff Development</title>
-    <link>https://poffdev.netlify.com/tags/southern-arizona/</link>
+    <link>https://poffdev.com/tags/southern-arizona/</link>
     <description>Recent content in Southern Arizona on Poff Development</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <lastBuildDate>Mon, 25 Mar 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://poffdev.netlify.com/tags/southern-arizona/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://poffdev.com/tags/southern-arizona/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About Poff Dev</title>
-      <link>https://poffdev.netlify.com/about/</link>
+      <link>https://poffdev.com/about/</link>
       <pubDate>Mon, 25 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://poffdev.netlify.com/about/</guid>
-      <description>Poff Development is a full-service web management company based in Tucson AZ, owned by Curt Poff. We build websites big and small.</description>
+      <guid>https://poffdev.com/about/</guid>
+      <description>Poff Development is a full-service web management company based in Tucson AZ, owned and operated by Curt Poff. We build websites big and small. Reach out to curt@poffdev.com.</description>
     </item>
     
   </channel>
