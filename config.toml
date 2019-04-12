@@ -1,19 +1,9 @@
 baseurl = "https://poffdev.com"
 title = "Poff Development"
-
 theme = "coder"
-
 languagecode = "en"
 defaultcontentlanguage = "en"
 
-paginate = 20
-canonifyurls = true
-
-pygmentsstyle = "b2"
-pygmentscodefences = true
-pygmentscodefencesguesssyntax = true
-
-#disqusShortname = ""
 
 [params]
   title = "Poff Development"
