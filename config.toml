@@ -1,4 +1,4 @@
-baseurl = "https://poffdev.netlify.com"
+baseurl = "https://poffdev.com"
 title = "Poff Development"
 theme = "coder"
 languagecode = "en"
@@ -24,7 +24,7 @@ pygmentscodefencesguesssyntax = true
     hideCopyright = false
 
     # Git Commit in Footer, uncomment the line below to enable it.
-    commit = "https://github.com/cpoff/poff-dev/"
+    commit = "https://github.com/cpoff/poff-dev"
 
     rtl = false
 
@@ -71,10 +71,10 @@ pygmentscodefencesguesssyntax = true
     [languages.en]
         languagename = "English"
 
-#        [[languages.en.menu.main]]
-#        name = "About"
-#        weight = 1
-#        url = "/about/"
+       [[languages.en.menu.main]]
+        name = "About"
+        weight = 1
+        url = "/about/"
 
 #        [[languages.en.menu.main]]
 #        name = "Blog"
