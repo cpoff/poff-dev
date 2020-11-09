@@ -10,9 +10,11 @@ tags:
 - Development
 ---
 
-<form name="contact" method="POST" data-netlify-recaptcha="true" data-netlify="true">
-<label>Name: <input type="text" name="name"></label><br/>
-<label>Email: <input type="email" name="email"></label><br/>
-<label>BOT TRAP!! Leave this field blank: <input name="bot-field"></label><br/>
-<label>Message:<br/><textarea name="message" rows="10" cols="75"></textarea></label><br/>
-<button type="submit">Send</button</form>
+
+
+<form name="contact" method="POST" data-netlify="true">
+    <label>Name: <input type="text" name="name" /></label>  <br/>
+    <label>Email: <input type="email" name="email" /></label><br/>
+    <label>Message:<br/> <textarea name="message" rows="10" cols="50"></textarea></label><br/>
+    <button type="submit">Send</button><br/>
+</form>

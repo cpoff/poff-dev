@@ -4,7 +4,7 @@ https://keybase.io/cpoff
 
 I hereby claim:
 
-  * I am an admin of https://poffdev.netlify.com
+  * I am an admin of https://poffdev.com
   * I am cpoff (https://keybase.io/cpoff) on keybase.
   * I have a public key with fingerprint 7D23 4D8A 284A 3C10 EB24  911E FBBE CD64 EE0C F37A
 
@@ -21,27 +21,17 @@ To do so, I am signing this object:
       "uid": "a2344637b4ee7f3228cee0dd6f596719",
       "username": "cpoff"
     },
-    "merkle_root": {
-      "ctime": 1553492790,
-      "hash_meta": "68e685074dfacfc436d297b4c89e3ba5584dcc85a0c515712eaa2465a05c282c",
-      "seqno": 5015194
-    },
-    "revoke": {
-      "sig_ids": [
-        "783c2ab08abb67e9eea1a373b73a153f39bf3a6cd2878f29a02038872e4bfab50f"
-      ]
-    },
     "service": {
-      "hostname": "poffdev.netlify.com",
+      "hostname": "poffdev.com",
       "protocol": "https:"
     },
     "type": "web_service_binding",
     "version": 1
   },
-  "ctime": 1553492797,
+  "ctime": 1554563737,
   "expire_in": 157680000,
-  "prev": "87146ee4638abb6da7d16ecfd38c493455a6dfb86f7c0d8575f4270f86d3f617",
-  "seqno": 58,
+  "prev": "203eea77059af15003f1c58a6ff5e3c3c975aafe016aa5c62c461d085f568691",
+  "seqno": 63,
   "tag": "signature"
 }
 
@@ -51,32 +41,29 @@ which yields the signature:
 Version: Keybase OpenPGP v2.1.0
 Comment: https://keybase.io/crypto
 
-yMPbAnicrVN7UBVVHAZLHTGSGM1HabbKmHa97vOcs5dsSooYzREnn0Dezu45y125
-3L3dXS4qklpoPoLCMFAhNTIlrUbErBAtR2wGJKIUH9XQS6VSZgzTNLTOMjbTNP3Z
-zs7snLPf7/u+3/c750j8bTFxsX8cbCFdd3QviW0+vCQvJqsiZ3IBp1lkMecr4HJo
-74cGCbUdf45JOB/HC7ygiwCpCk9UQJCMBKRAmVepoUsyD2RRRoaiIPc1KCUYSiKR
-BFUBEkYyTyCAgMechzPMUDaNhCNmyGG0kIiSTBAWkYwlXeCpJsqqIFBD06hOgEwp
-rxsSdAsDlu1WMHMatqnXtNgeW/h77f0H/n/2nddLh5ldGUhQY0rQkEQR6UySEGAo
-KoCC6gJtGgnhXMrQetgyDK7Qw+XSSE6Q+iOW5bjJ6o7p/hcURZJVEao86w7bAX8u
-dTArA4gCpPBQJgbWDV2WABFVJqkjlUoaZlZloutIwbyuCAoURIqxKAO2VnQRiToz
-YdNnQxbnU3hBEVSZOYjQqJVDXXHbzGaZ2Zwvk4NI0kWs8QhrGoBUpRQLWIKSBiUs
-KJIhqZohYaATEUFkiCrmRV5CCIpU1gysKbzBPV3oikWipt5L7g7pVvNu74RGvSHq
-BE1jsVe3cpmxcMRyLN0KMkDAccK2z43HWRx2K/Kp5r/F5dfMEGEnhVVEacQ2rRCL
-iyH/nRz0cHRR2IxQv+kiFAgQzx5Xh0YZJYKCDChlI+vtkY2XCIDqBpGQLquSrCgY
-EENDwIA6T9jJUAxZhLyBAJEMIMB/RImYT5zNOFmAIezkRShXePiTrNtjYuNi+vXt
-416hmLgBCX9frM3fDbo5sc+JQV/5Ph6Xu/l4R8ubzsij67KMj7pS5wdLPUdPb32w
-rXF4Rd2ZuJVzk3bP2ZB27UJJflLtky82gOc/X7GxvSslfsXS2HPevclHAqeL9qQt
-66zqfmXC99+sTY7urYX52xJXeydPeiqw/M+mnTWHHt6WPmDoc6mr6m78Xt+/6OqJ
-n/JP3bVAqDxvHxtySp8SfumJ5YMSsxq5gwUZqGH4tS1Cxca0y2d7mkvfrmmd41nm
-ZESHvDpl7eycC29dP1cePTtjV9O7Cb9d3HizJW7FQnq8fWw2VxjcVXVwZeWmktKZ
-axYeD43M3F8hfLo088f6ZpWXx7aWdV9K93XAK7X7vcPOj7++yVfSM796d1vGt6lr
-tmub9y0oHFZlzW6ZNnGrtaEn9syBLi2z/5JVl67UX5w1ibu7L1/W2gnGPB5/taDm
-lwObQuYPq0d3VN+8MnrZPckp5TMDBb8eqPo67eT7RdNvBGeSop3FqScXpid90Rwa
-nNwvtnjM1ob29SOeSbxo39temb5r/5cDX2uIG/xy6ejPRrxes5JLCDcldZUHyqcL
-93lGeekxH3jn/msdwonT1ds+rF7dmXbq56vb2/KS4Kx9a9WHRu7oenTDjqadPS/s
-eW9uw9D19eFpKfb8sqlbQm+0evrXDlyU3t0pzEtILD4/4xFhQWP9sboBo8ADeePj
-20fUXx7nmVjyQeM8+1Bb/ITH1rXeWWlO/Qu4Tgmp
-=1O/L
+yMM9AnicrVJtUFRVGF7QNJcP0aKl1KZuTQnDyP3+2InGTATUQNMmSHbWu/ecy14W
+9q77hbCglXyIzKitqaHQsGoFS9mEgMOGKSZsSorC9KthJHSHjRmJiEESou5l7F8/
+O3Nmzpz3fZ7nfd533msxizTaiNnvboLx6D9KI/q6P3Zp8pqu1nkQkwxKEL0HscCF
+BxYC6HAaLRJA9AiKoZiA0yxHoYCjAUuyGEsxJMpBUSBIlCZxkhUpilWvCCHgGQIH
+BMZRNMGzJAoYmqFRHklGRMmaD+02u2R1KrIMwAkSsDzOkjwhYCg04SSHYVA0maAA
+aBJCVBAJRiWaZYfKUMyZeAdcJ8lKTPkYF+z9B/5/9u1akOMVuyRNMCalEiMSOM4K
+SkkAaJHiaAbjVKAD2q18EVTQgk0WRaQ8GVFCbkmA6lTVNh6n1SyA7nWCXKTwbHbZ
+KQtyoZIwO502h14lOktsKrIYmoyPNYwmyQqUGSoMN7Q7JNmK6DEFKTglVRSjKFLx
+zhBMMgL32iQ7NEoqgmJoFlWOWge6FUkcJSDkGQalOF7EKBQlREygWJ4WRQoSAiFw
+DMXzIkQxmucpgcYFksYAqkyJolmawxC1qz1WGdHThOKTz1c0HVK+lXe67BApv9qd
+t1gTodUseSJSXS6NdlncvysXGojTXJx1HS8OtZVkPnSlFt4rfOANXopcdWfslffm
+myuajtWm9q9fuSHsPpk9nRRsMackBbv+8m4FnwhLTxzaRJ+70fP8m7PdbFQll9XZ
+l50eVbY5swOkrt746Hr92mO/9f/Yc8VwcGJi9IZ/qf+sP8W+rXGTA2mkfMt3F5x9
+d8An3KocPuz1Z1aZOytHI1aBli/I3IoLPxs2bjgQV7zkm46en0KHmv+ubnhtz2ZD
+RkssWQRGerVvhPcZbqe19Ru0xYEYdtg8EhfZdW9qLOFgUlNQN5yie/FBoG2r59Ww
+PX1Iw76/w51Tcd06PhnrZT5vv5v2ZUJse0kfeeSjrqqUebB96PXw+oZQ+eX9/pSK
+kemaxrnB3osF2rT++pvYYGpiYFdDfHhLrlBrPm+3lJdxK5cHvx/UJz7n7W5HDpy8
+7PH1Pmr8IX5uh87gOfe2NKmLvv/03a86g9WWazVFdYYVt7LuL6pvelmMeGsx0O3y
+PfttnjkqY03WhUi2uvWd1pia6UsZRt/5mRlHzhn9Mnh4Z9lpwZAwmhQOnNgd6LFe
+mcit+j2dw4tCX8fHTJ2aTOLulBa/0J0/88z++Lo/g9k75aExsHb1ZOtLD0uT5+Q1
+rua9H8yfPjKOdRbsy0g8amGO4lO/ZCZmh3W/5ojOjvGx6NuftTzl+jRt4MNTId+Z
+FeHaim3bp2af1P4DqH3GSw==
+=c55d
 -----END PGP MESSAGE-----
 
 And finally, I am proving ownership of this host by posting or
