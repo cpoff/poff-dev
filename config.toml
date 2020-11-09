@@ -83,10 +83,7 @@ defaultcontentlanguage = "en"
 #        url = "/projects/"
 
 #        [[languages.en.menu.main]]
-<<<<<<< HEAD
 #        name = "I'm for hire!"
-=======
 #        name = "Contact me"
->>>>>>> 457a0075fb15bf4843eea72de5bba02b967eb7d1
 #        weight = 5
 #        url = "/contact/"
