@@ -1,156 +1,139 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://poffdev.com/posts/introduction/</loc>
+    <loc>https://poffdev.netlify.com/posts/introduction/</loc>
     <lastmod>2019-03-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://poffdev.com/about/</loc>
+    <loc>https://poffdev.netlify.com/about/</loc>
     <lastmod>2019-03-25T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://poffdev.com/tags/about/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://poffdev.com/tags/arizona/</loc>
+    <loc>https://poffdev.netlify.com/tags/arizona/</loc>
     <lastmod>2019-03-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://poffdev.com/categories/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://poffdev.com/categories/contact/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://poffdev.com/contact/</loc>
-  </url>
-  
-  <url>
-    <loc>https://poffdev.com/tags/contract/</loc>
-    <lastmod>2019-03-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://poffdev.com/tags/css/</loc>
-    <lastmod>2019-03-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://poffdev.com/tags/curt-poff/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://poffdev.com/tags/developer/</loc>
-    <lastmod>2019-03-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://poffdev.com/tags/development/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://poffdev.com/categories/development/</loc>
-    <lastmod>2019-03-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://poffdev.com/tags/html/</loc>
-    <lastmod>2019-03-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://poffdev.com/tags/hugo/</loc>
-    <lastmod>2019-03-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://poffdev.com/tags/javascript/</loc>
-    <lastmod>2019-03-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://poffdev.com/tags/mobile/</loc>
-    <lastmod>2019-03-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://poffdev.com/tags/netlify/</loc>
-    <lastmod>2019-03-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://poffdev.com/</loc>
-    <lastmod>2019-03-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://poffdev.com/posts/</loc>
-    <lastmod>2019-03-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://poffdev.com/projects/</loc>
-  </url>
-  
-  <url>
-    <loc>https://poffdev.com/tags/responsive/</loc>
-    <lastmod>2019-03-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://poffdev.com/tags/southern-arizona/</loc>
+    <loc>https://poffdev.netlify.com/categories/</loc>
     <lastmod>2019-03-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://poffdev.com/tags/static-site-generator/</loc>
-    <lastmod>2019-03-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://poffdev.com/tags/</loc>
+    <loc>https://poffdev.netlify.com/tags/contract/</loc>
     <lastmod>2019-03-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://poffdev.com/tags/tucson/</loc>
+    <loc>https://poffdev.netlify.com/tags/css/</loc>
     <lastmod>2019-03-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://poffdev.com/tags/web/</loc>
+    <loc>https://poffdev.netlify.com/tags/developer/</loc>
+    <lastmod>2019-03-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://poffdev.netlify.com/categories/development/</loc>
+    <lastmod>2019-03-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://poffdev.netlify.com/tags/html/</loc>
+    <lastmod>2019-03-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://poffdev.netlify.com/tags/hugo/</loc>
+    <lastmod>2019-03-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://poffdev.netlify.com/tags/javascript/</loc>
+    <lastmod>2019-03-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://poffdev.netlify.com/tags/mobile/</loc>
+    <lastmod>2019-03-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://poffdev.netlify.com/tags/netlify/</loc>
+    <lastmod>2019-03-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://poffdev.netlify.com/</loc>
+    <lastmod>2019-03-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://poffdev.netlify.com/tags/responsive/</loc>
+    <lastmod>2019-03-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://poffdev.netlify.com/tags/southern-arizona/</loc>
+    <lastmod>2019-03-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://poffdev.netlify.com/tags/static-site-generator/</loc>
+    <lastmod>2019-03-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://poffdev.netlify.com/tags/</loc>
+    <lastmod>2019-03-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://poffdev.netlify.com/tags/tucson/</loc>
+    <lastmod>2019-03-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://poffdev.netlify.com/tags/web/</loc>
+    <lastmod>2019-03-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://poffdev.netlify.com/tags/webmaster/</loc>
+    <lastmod>2019-03-25T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://poffdev.netlify.com/posts/</loc>
     <lastmod>2019-03-19T00:00:00+00:00</lastmod>
-    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://poffdev.netlify.com/tags/about/</loc>
+  </url>
+  
+  <url>
+    <loc>https://poffdev.netlify.com/categories/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>https://poffdev.netlify.com/contact/</loc>
+  </url>
+  
+  <url>
+    <loc>https://poffdev.netlify.com/tags/curt-poff/</loc>
+  </url>
+  
+  <url>
+    <loc>https://poffdev.netlify.com/tags/development/</loc>
+  </url>
+  
+  <url>
+    <loc>https://poffdev.netlify.com/projects/</loc>
   </url>
   
 </urlset>

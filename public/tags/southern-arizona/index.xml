@@ -1,23 +1,19 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Southern Arizona on Poff Development</title>
-    <link>https://poffdev.com/tags/southern-arizona/</link>
-    <description>Recent content in Southern Arizona on Poff Development</description>
+    <title>southern Arizona on Poff Development</title>
+    <link>https://poffdev.netlify.com/tags/southern-arizona/</link>
+    <description>Recent content in southern Arizona on Poff Development</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 25 Mar 2019 00:00:00 +0000</lastBuildDate>
-    
-	<atom:link href="https://poffdev.com/tags/southern-arizona/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Mon, 25 Mar 2019 00:00:00 +0000</lastBuildDate><atom:link href="https://poffdev.netlify.com/tags/southern-arizona/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Poff Dev</title>
-      <link>https://poffdev.com/about/</link>
+      <link>https://poffdev.netlify.com/about/</link>
       <pubDate>Mon, 25 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://poffdev.com/about/</guid>
-      <description>Poff Development is a full-service web management company based in Tucson AZ, owned and operated by Curt Poff. We build websites big and small. Reach out to curt@poffdev.com.</description>
+      <guid>https://poffdev.netlify.com/about/</guid>
+      <description>Poff Development is a contract web management provider based in Tucson AZ, owned and operated by Curt Poff. We build websites big and small. Reach out to curt@poffdev.com.</description>
     </item>
     
   </channel>
