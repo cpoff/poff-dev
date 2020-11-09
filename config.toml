@@ -36,11 +36,11 @@ defaultcontentlanguage = "en"
 #[taxonomies]
 #  series = "series"
 
-#[[params.social]]
-#    name = "Github"
-#    icon = "fab fa-github"
-#    weight = 1
-#    url = "https://github.com/johndoe/"
+[[params.social]]
+    name = "Github"
+    icon = "fab fa-github"
+    weight = 1
+    url = "https://github.com/cpoff/"
 #[[params.social]]
 #    name = "Gitlab"
 #    icon = "fab fa-gitlab"
